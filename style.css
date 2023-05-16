@@ -1,0 +1,18 @@
+*{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: .5rem;
+}
+body{
+    background-color: lightgray;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+ 
